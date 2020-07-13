@@ -23,6 +23,7 @@ The server
 This is the node socket.io Server app to start:
 
 `npm i`
+
 `node server.js`
 
 Then run the client app
@@ -32,6 +33,7 @@ Then run the client app
 That is the client React Application to start :
 
 `npm i`
+
 `npm start`
 
 
