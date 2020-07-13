@@ -18,19 +18,21 @@ There are two parts for the web app:
 
 The server
 
-`cd /citibike-server`
+`cd /citybike-server`
 
-This is the node socket.io Server app to start :
+This is the node socket.io Server app to start:
 
+`npm i`
 `node server.js`
 
 Then run the client app
 
-`cd /citibike-client`
+`cd /citybike-client`
 
 That is the client React Application to start :
 
-`npm strat`
+`npm i`
+`npm start`
 
 
 
